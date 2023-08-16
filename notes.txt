@@ -1,0 +1,11 @@
+Notes
+06/26
+- It is important to write code that is easy to understand.
+- This is because in the future someone will need to be able to re-read your code.
+- You want it to be like a textbook --> you can flip to a page where you want and read that section --> you need to be able to flip to your code and understand that code quick.
+- You will spend more time maintaining code than writing it the first time.
+- With code the computer breaks down the code into small understandable pieces and executes those one by one.
+- Javascript is single-threaded --> only one thing is ever happening at a time (ex. line 1, then line 2, then line 3).
+- To set a variable you can use let, const, or var.
+- var is not as good to use anymore let and const are better to be used.
+- let will set a variable that can be changed later, var will set a variable 
